@@ -1,0 +1,9 @@
+Command to create new file.
+1. touch coding.txt
+
+Command to insert text.
+1. vi coding.txt
+2. Press i to activate INSERT.
+3. Type the required text.
+4. Press esc to deactivate INSERT.
+5. Type :wq and hit enter key to save and quit.
